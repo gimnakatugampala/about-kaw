@@ -303,7 +303,7 @@ const question = [
     {
         questions:"Best teacher she ever had?",
         answers:[
-            {text:'Chamari Gamer',correct:false},
+            {text:'Chamari teacher',correct:false},
             {text:'Achini teacher',correct:false},
             {text:'Priyangani teacher',correct:true},
             {text:'Thilini teacher',correct:false}
